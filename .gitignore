@@ -1,0 +1,8 @@
+bronze/
+silver/
+gold/
+
+.ipynb_checkpoints/
+
+.venv/
+venv/
