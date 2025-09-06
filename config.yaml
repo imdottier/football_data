@@ -6,6 +6,44 @@
 # Source: Raw `event` table
 # ==============================================================================
 
+silver_layer:
+  fct_match_events:
+    final_column_order:
+      # Keys
+      - match_id
+      - _event_id
+      - event_id
+      - team_id
+      - player_id
+
+      # Time and Period
+      - minute
+      - second
+      - period_value
+      - period_display_name
+
+      # Event Details
+      - type_display_name
+      - is_successful
+
+      # Location
+      - x
+      - y
+      - end_x
+      - end_y
+
+      # Enriched Qualifier Data
+      - qualifiers_display_names
+      - satisfied_events_types_names
+      - qualifiers_values
+      - satisfied_events_types
+
+      # Partitioning Columns
+      - league
+      - season
+      - stage_id
+
+
 gold_layer:
   # Player stats by match
   player_match_stats:
@@ -114,7 +152,7 @@ gold_layer:
       - player_name
 
       # Player stats
-      - is_first_eleven
+      - is_starting_eleven
       - minutes_played
 
       # Goals and Assists
@@ -374,7 +412,7 @@ gold_layer:
 
       flag_counts:
         appearances: "*"
-        games_started: is_first_eleven
+        games_started: is_starting_eleven
 
     # --- Final Presentation Layer ---
     # Defines the final schema and order of the output table.
@@ -633,7 +671,7 @@ gold_layer:
 
       # flag_counts:
       #   appearances: "*"
-      #   games_started: is_first_eleven
+      #   games_started: is_starting_eleven
 
     # --- Final Presentation Layer ---
     # Defines the final schema and order of the output table.

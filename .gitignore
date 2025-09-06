@@ -6,3 +6,6 @@ gold/
 
 .venv/
 venv/
+
+derby.log
+*.deb

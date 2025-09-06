@@ -1,0 +1,1267 @@
+[
+  {
+    "formation_name": "4231",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 8,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 4,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 7,
+    "position": "AMR"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 10,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 11,
+    "position": "AML"
+  },
+  {
+    "formation_name": "4231",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 2,
+    "position": "DMR"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 3,
+    "position": "DML"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 11,
+    "position": "MC"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "352",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 7,
+    "position": "MR"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 4,
+    "position": "MC"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 11,
+    "position": "ML"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "442",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 2,
+    "position": "DMR"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 3,
+    "position": "DML"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 11,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 10,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "3421",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 4,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 7,
+    "position": "MR"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 10,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 11,
+    "position": "ML"
+  },
+  {
+    "formation_name": "4141",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 4,
+    "position": "MC"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 10,
+    "position": "FWR"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "433",
+    "slot_id": 11,
+    "position": "FWL"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 2,
+    "position": "DMR"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 3,
+    "position": "DML"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 10,
+    "position": "FWR"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "343",
+    "slot_id": 11,
+    "position": "FWL"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 2,
+    "position": "DMR"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 3,
+    "position": "DML"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 11,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 10,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "3511",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 8,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 2,
+    "position": "MR"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 11,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 3,
+    "position": "ML"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "3142",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 2,
+    "position": "MR"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 3,
+    "position": "ML"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 9,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 11,
+    "position": "FW"
+  },
+  {
+    "formation_name": "3412",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 4,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 11,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4132",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 11,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 4,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 8,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4312",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 7,
+    "position": "MR"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 4,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 11,
+    "position": "ML"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 10,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4411",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 4,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 11,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 10,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4321",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 7,
+    "position": "MR"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 10,
+    "position": "MC"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 11,
+    "position": "ML"
+  },
+  {
+    "formation_name": "541",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 11,
+    "position": "MC"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "532",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 4,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 8,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 11,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 7,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4222",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 7,
+    "position": "MR"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 4,
+    "position": "MC"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 10,
+    "position": "MC"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 11,
+    "position": "ML"
+  },
+  {
+    "formation_name": "451",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 4,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 11,
+    "position": "MC"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 7,
+    "position": "MC"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 8,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 10,
+    "position": "FW"
+  },
+  {
+    "formation_name": "41212",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 2,
+    "position": "DR"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 3,
+    "position": "DL"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 4,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 8,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 7,
+    "position": "AMR"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 9,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 10,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "4240",
+    "slot_id": 11,
+    "position": "AML"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 8,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 2,
+    "position": "MC"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 3,
+    "position": "MC"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 7,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 10,
+    "position": "FWR"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "343d",
+    "slot_id": 11,
+    "position": "FWL"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 2,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 3,
+    "position": "DMC"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 10,
+    "position": "AMR"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 8,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 7,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 11,
+    "position": "AML"
+  },
+  {
+    "formation_name": "3241",
+    "slot_id": 9,
+    "position": "FW"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 1,
+    "position": "GK"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 6,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 5,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 4,
+    "position": "DC"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 8,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 2,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 3,
+    "position": "MC"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 10,
+    "position": "AMR"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 7,
+    "position": "AMC"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 11,
+    "position": "AML"
+  },
+  {
+    "formation_name": "3331",
+    "slot_id": 9,
+    "position": "FW"
+  }
+]
