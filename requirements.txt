@@ -1,0 +1,13 @@
+beautifulsoup4==4.13.5
+databricks==0.2
+databricks_sdk==0.65.0
+delta==0.4.2
+hdfs==2.7.3
+pandas==2.3.2
+pyspark==3.5.6
+python-dotenv==1.1.1
+PyYAML==6.0.2
+PyYAML==6.0.2
+selenium==4.35.0
+webdriver_manager==4.0.2
+pyarrow==21.0.0

@@ -1,11 +1,16 @@
-bronze/
-silver/
-gold/
+bronze_raw/
 
 .ipynb_checkpoints/
 
 .venv/
 venv/
+
+.env
+
+delta_temp/
+handoff/
+spark-metastore/
+metastore_db
 
 derby.log
 *.deb

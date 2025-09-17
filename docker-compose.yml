@@ -1,0 +1,68 @@
+# A clean, simple, back-to-basics configuration
+services:
+  spark-master:
+    image: bitnami/spark:3.5
+    user: "root"
+    container_name: spark-master
+
+    extra_hosts:
+      - "desktop-68ec7n1.localdomain:172.27.76.14"
+    
+    # We explicitly define the entire startup sequence.
+    command: >
+      bash -c "
+        echo '>>> MASTER: Installing Python dependencies...';
+        /opt/bitnami/python/bin/python3 -m pip install -r /app/requirements.txt &&
+        echo '>>> MASTER: Starting Spark Master process...';
+        exec /opt/bitnami/spark/bin/spark-class org.apache.spark.deploy.master.Master
+      "
+      
+    environment:
+      - SPARK_DRIVER_MEMORY=2g
+      - SPARK_USER=root
+      - PYTHONPATH=/app
+      - PYSPARK_PYTHON=/opt/bitnami/python/bin/python3
+      - PYSPARK_DRIVER_PYTHON=/opt/bitnami/python/bin/python3
+
+    volumes:
+      - .:/app
+      - ./spark-metastore:/app/spark-metastore
+      - ./conf/log4j2.properties:/opt/bitnami/spark/conf/log4j2.properties
+
+    ports:
+      - "8080:8080" # Spark Master UI
+      - "4040:4040" # Spark Application UI
+      - "7077:7077" # Spark Master Port
+
+  spark-worker:
+    image: bitnami/spark:3.5
+    user: "root"
+    container_name: spark-worker-1
+    # The worker depends on the master being available.
+    depends_on:
+      - spark-master
+      
+    extra_hosts:
+      - "desktop-68ec7n1.localdomain:172.27.76.14"
+      
+    # The worker has its own explicit command.
+    command: >
+      bash -c "
+        echo '>>> WORKER: Installing Python dependencies...';
+        /opt/bitnami/python/bin/python3 -m pip install -r /app/requirements.txt &&
+        echo '>>> WORKER: Starting Spark Worker process...';
+        exec /opt/bitnami/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077
+      "
+
+    environment:
+      - SPARK_WORKER_CORES=8 
+      - SPARK_WORKER_MEMORY=10g
+      - SPARK_USER=root
+      - PYTHONPATH=/app
+      - PYSPARK_PYTHON=/opt/bitnami/python/bin/python3
+      - PYSPARK_DRIVER_PYTHON=/opt/bitnami/python/bin/python3
+      
+    volumes:
+      - .:/app
+      - ./spark-metastore:/app/spark-metastore
+      - ./conf/log4j2.properties:/opt/bitnami/spark/conf/log4j2.properties
