@@ -65,8 +65,8 @@ def main():
         help="Specify which pipeline layers to run (e.g., --layers silver gold). Defaults to 'all'."
     )
     parser.add_argument(
-        "--load_date_hour",
-        type=str,
+        "--load_date_hour", # explicitly set to agg the new batch, if not agg all
+        type=str, 
         help="The specific load partition for the Gold layer, in 'YYYY-MM-DD-HH' format."
     )
     args = parser.parse_args()

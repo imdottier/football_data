@@ -485,6 +485,11 @@ gold:
         pso_penalties_taken: sum
         pso_penalties_scored: sum
 
+        # Big chances
+        big_chance_created: sum
+        big_chance_scored: sum
+        big_chance_missed: sum
+
         # Cards
         yellow_cards: sum
         second_yellow_cards: sum
@@ -632,6 +637,11 @@ gold:
       - pso_penalties_taken
       - pso_penalties_scored
 
+      # Big chances
+      - big_chance_created
+      - big_chance_scored
+      - big_chance_missed
+
       # Cards
       - yellow_cards
       - second_yellow_cards
@@ -768,6 +778,11 @@ gold:
         penalties_scored: sum
         pso_penalties_taken: sum
         pso_penalties_scored: sum
+
+        # Big chances
+        big_chance_created: sum
+        big_chance_scored: sum
+        big_chance_missed: sum
 
         # Cards
         yellow_cards: sum
@@ -933,6 +948,11 @@ gold:
       - pso_penalties_taken
       - pso_penalties_scored
 
+      # Big chances
+      - big_chance_created
+      - big_chance_scored
+      - big_chance_missed
+
       # Cards
       - yellow_cards
       - second_yellow_cards
@@ -1076,6 +1096,11 @@ gold:
         penalties_scored: sum
         pso_penalties_taken: sum
         pso_penalties_scored: sum
+
+        # Big chances
+        big_chance_created: sum
+        big_chance_scored: sum
+        big_chance_missed: sum
 
         # Cards
         yellow_cards: sum
@@ -1228,6 +1253,11 @@ gold:
       - penalties_scored
       - pso_penalties_taken
       - pso_penalties_scored
+
+      # Big chances
+      - big_chance_created
+      - big_chance_scored
+      - big_chance_missed
 
       # Cards
       - yellow_cards

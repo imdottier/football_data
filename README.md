@@ -1,6 +1,6 @@
 # Football Data ETL Pipeline & Lakehouse
 
-This project collects football match data from the web, cleans and organizes it in a multi-layer data lakehouse, and prepares it for analysis. It uses Docker for containerization, and Apache Spark with Delta Lake for processing.
+This project collects football match data from Whoscored.com (powered by Opta), cleans and organizes it in a multi-layer data lakehouse, and prepares it for analysis. It uses Docker for containerization, and Apache Spark with Delta Lake for processing.
 
 ## Core Idea & Architecture
 
@@ -162,9 +162,11 @@ After the pipeline has run successfully, you can explore the final tables.
 
 **Jupyter Notebook**: Open and run analysis/sandbox.ipynb for sample queries and visualizations.
 
-**Upload to Databricks**: Push the final Gold tables to a Databricks workspace using the utility script.
+**Upload to Databricks**: Copy the final Gold tables to your local filesystem since you can't upload from HDFS, and
+I'm too poor to get Databricks Connect. Then push the folder to a Databricks workspace using the utility script.
 
 ```bash
+hdfs dfs -get user/{your_username}/spark-warehouse/gold.db/ delta_temp
 python -m scripts.upload_to_databricks
 ```
 
